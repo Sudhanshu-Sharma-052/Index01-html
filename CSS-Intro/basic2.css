@@ -1,0 +1,24 @@
+span{
+   color: brown;
+}
+hr{
+   border-color: darkblue;
+}
+h4{
+   color: orangered;
+}
+*{
+   background-color: burlywood;
+}
+p{
+   font-style: italic;
+}
+li{
+   color: yellow; 
+}
+header{
+   background-color: white;
+}
+div{
+   background-color: brown;
+}

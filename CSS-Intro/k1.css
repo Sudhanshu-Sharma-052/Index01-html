@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+   body{
+   background-color: antiquewhite;
+   }
+
+   .container{
+   max-width: 600px;
+   padding: 20px;
+   background-color: white;
+   margin: 0 auto;
+   margin-top: 50px;
+   }
+   .top_section h2{    
+      
+      font-weight: bold;
+      text-align: left;
+      font-size: 15px;
+      
+   }
+   
+.dot{
+   width: 4px;
+   height: 4px;
+   background-color: black;
+   align-items: center;
+   margin-left: 0%;
+   border-radius: 50%;
+   display: inline-block;
+}
+.image_container img{
+   width: 50px;
+   height: 50px;
+   float: left;
+}

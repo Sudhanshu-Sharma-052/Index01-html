@@ -1,0 +1,14 @@
+/* class selector,  .class name */
+.mid-text{
+   font-weight: lighter;
+   font-size: larger;
+   color: red;
+}
+
+/* id selector , # idname */
+#head-text{
+   text-decoration-line: underline; 
+   /* text-decoration-line: overline; */
+   text-decoration-style: wavy;
+}
+/* ps */
